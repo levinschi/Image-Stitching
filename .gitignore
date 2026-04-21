@@ -1,1 +1,11 @@
-.venv/
+# Ignore everything
+*
+
+# But track Python scripts
+!*.py
+
+# Track the report
+!Report_Image_Stitching_Levinschi_Eduard.pdf
+
+# Track this file
+!.gitignore
