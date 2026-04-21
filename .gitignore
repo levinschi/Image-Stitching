@@ -7,5 +7,12 @@
 # Track the report
 !Report_Image_Stitching_Levinschi_Eduard.pdf
 
-# Track this file
+# Track git files
 !.gitignore
+!.gitattributes
+
+# Explicitly ignore images and assignments
+car1.jpg
+car2.jpeg
+First Assignment - Image Stitching.pdf
+outputs/
